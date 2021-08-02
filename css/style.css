@@ -7,7 +7,7 @@
 .container {
   background-color: gray;
   border-radius: 30px;
-  /* position: relative; */
+  position: relative;
   min-height: 450px;
   padding: 20px;
 }
